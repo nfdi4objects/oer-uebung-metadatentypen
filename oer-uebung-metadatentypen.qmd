@@ -44,8 +44,6 @@ Die Beispiele für diese Übung stammen vom [Archaeology Data Service](https://a
 
 ## Aufgabenstellungen
 
-Vorschlag für ein Schema mit Aufgabenstellung und Lösungshinweisen in einem Tabset:
-
 ### Aufgabe 1
 
 In der ADS Library finden sich zahlreiche archäologische Zeitschriften, die retrodigitalisiert und mit Metadaten versehen sind. Schauen Sie sich einmal die Metadaten zu dem abgebildeten Artikel aus der Zeitschrift Sussex Archaeology an. [Dixon, F. (1847). On a British Sepulchral Urn and Brass Pin, found at Storrington Downs. Sussex Archaeological Collections 1. Vol 1, pp. 55-57](https://doi.org/10.5284/1085058).
