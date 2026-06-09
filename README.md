@@ -1,12 +1,12 @@
 # NFDI4objects-OER-Baustein einer Übung zum Thema Metadaten
 
-Dieses Repository enthält einen OER-Baustein für eine Übung zum Thema Metadaten (oer-uebung-metadatentypen.qmd)
+Dieses Repository enthält einen OER-Baustein für eine Übung zum Thema Metadatentypen (oer-uebung-metadatentypen.qmd)
 
-Im Ordner "img" befindet sich das Bildmaterial, das im Script verwendet wird.
+Im Ordner "img" befindet sich das Bildmaterial, das in der Übung verwendet wird.
 Die Metadaten für den OER-Baustein befinden sich in den Dateien "autor_innen.yml", "oer_metadata.yml" und im Header der qmd-Datei.
 
 ## Open Educational Resources (OER)
-Für die Ordnerstruktur und den Aufbau des Templates siehe https://kacebe.github.io/n4o_oer-template-dokumentation/nutzen.html
+Für die Ordnerstruktur und den Aufbau des Templates siehe https://nfdi4objects.github.io/oer-template-dokumentation/
 
 Das Template ist ein Angebot der Task Area 6 von [NFDI4Objects](https://nfdi4objects.net), einem Konsortium der Nationalen Forschungsdateninfrastruktur ([NFDI](https://nfdi.de)).
 
