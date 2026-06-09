@@ -100,8 +100,13 @@ In der vorangegangenen Aufgabe wurden die Metadatentypen für einen Datensatz-Ty
 [Colchester Archaeological Trust (2025) Site Data from an Archaeological Evaluation at South of Berechurch Hall Road, Colchester, Essex, Sep 2021 [data-set]. York: Archaeology Data Service [distributor]](https://doi.org/10.5284/1132984).
 
 - In der linken Übersichtsleiste finden Sie die Bereiche "Collection Metadata", in denen die Metadaten für die gesamte Kollektion angegeben sind. 
+
+![Screenshot Collection Metadata](img/Bildschirmfoto_ads_collection-metadata.jpg)
+
 - Unter Downloads finden Sie verschiedene zugehörige Dateitypen, wie den [Bericht](https://archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1236039), [Rasterbilder](https://archaeologydataservice.ac.uk/archives/collections/view/1006589/downloads.cfm?archive=Image), [Vektorgraphiken](https://archaeologydataservice.ac.uk/archives/collections/view/1006589/downloads.cfm?archive=Site_Records) und [weitere Daten](https://archaeologydataservice.ac.uk/archives/collections/view/1006589/downloads.cfm?archive=Site_Records), die während der Ausgrabung aufgenommen wurden. 
 - Für jede Datei können die Metadaten über *info* angezeigt werden.
+
+![Screenshot Downloads](img/Bildschirmfoto_ads_downloads.jpg)
 
 ::: panel-tabset
 #### Aufgabenstellung
