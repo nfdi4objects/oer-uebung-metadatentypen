@@ -10,6 +10,9 @@ Für die Ordnerstruktur und den Aufbau des Templates siehe https://nfdi4objects.
 
 Das Template ist ein Angebot der Task Area 6 von [NFDI4Objects](https://nfdi4objects.net), einem Konsortium der Nationalen Forschungsdateninfrastruktur ([NFDI](https://nfdi.de)).
 
+## Lizenz
+Dieses Material steht unter der Lizenz [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.de).
+
 ## Förderung
 
 Die Materialien entstanden in dem von der DFG geförderten Projekt "[NFDI4Objects - Forschungsdateninfrastruktur für die materiellen Hinterlassenschaften der Menschheitsgeschichte](https://gepris.dfg.de/gepris/projekt/501836407) und wurden an der [Hochschule Mainz](https://www.hs-mainz.de/) entwickelt.
