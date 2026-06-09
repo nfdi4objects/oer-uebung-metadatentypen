@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "oer-uebung-metadatentypen.html",
+    "href": "oer-uebung-metadatentypen.html",
+    "title": "Übung Metadatentypen",
+    "section": "",
+    "text": "Egal, ob für die eigene Datenablage, für eine Publikation von Forschungsergebnissen oder für die gemeinsame Arbeit mit Kolleg:innen an einem Projekt: Metadaten sind unerlässlich, um beispielsweise Projektdaten zu finden, sie zu verstehen, sie einordnen zu können und weiter zu nutzen. Metadaten beschreiben den Inhalt, die Entstehung und den Kontext von Daten. Sie machen einen Datensatz sowohl für Menschen als auch für Maschinen auffindbar und verständlich. Dabei gibt es unterschiedliche Arten von Metadaten, je nach Informationsbedürfnis und Anwendungskontext.\nIn dieser Übung vertiefen Sie Ihre Kenntnisse zu Metadaten und können anhand von Beispielen die unterschiedlichen Arten von Metadaten für verschiedene Dateitypen benennen, erläutern und auf eigene Daten anwenden. \n\n\nFür das Verständnis dieser Übung werden vorausgesetzt:\n\nDie Teilnehmenden sollten die verschiedenen Arten von Metadaten bereits benennen können. Eine Einführung zu den verschiedenen Arten von Metadaten finden Sie unter diesem Link."
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#praktische-bezüge",
+    "href": "oer-uebung-metadatentypen.html#praktische-bezüge",
+    "title": "Übung Metadatentypen",
+    "section": "",
+    "text": "Egal, ob für die eigene Datenablage, für eine Publikation von Forschungsergebnissen oder für die gemeinsame Arbeit mit Kolleg:innen an einem Projekt: Metadaten sind unerlässlich, um beispielsweise Projektdaten zu finden, sie zu verstehen, sie einordnen zu können und weiter zu nutzen. Metadaten beschreiben den Inhalt, die Entstehung und den Kontext von Daten. Sie machen einen Datensatz sowohl für Menschen als auch für Maschinen auffindbar und verständlich. Dabei gibt es unterschiedliche Arten von Metadaten, je nach Informationsbedürfnis und Anwendungskontext.\nIn dieser Übung vertiefen Sie Ihre Kenntnisse zu Metadaten und können anhand von Beispielen die unterschiedlichen Arten von Metadaten für verschiedene Dateitypen benennen, erläutern und auf eigene Daten anwenden. \n\n\nFür das Verständnis dieser Übung werden vorausgesetzt:\n\nDie Teilnehmenden sollten die verschiedenen Arten von Metadaten bereits benennen können. Eine Einführung zu den verschiedenen Arten von Metadaten finden Sie unter diesem Link."
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#datengrundlage",
+    "href": "oer-uebung-metadatentypen.html#datengrundlage",
+    "title": "Übung Metadatentypen",
+    "section": "2 Datengrundlage",
+    "text": "2 Datengrundlage\nDie Beispiele für diese Übung stammen vom Archaeology Data Service (ADS)."
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#aufgabenstellungen",
+    "href": "oer-uebung-metadatentypen.html#aufgabenstellungen",
+    "title": "Übung Metadatentypen",
+    "section": "3 Aufgabenstellungen",
+    "text": "3 Aufgabenstellungen\n\n3.1 Aufgabe 1\nIn der ADS Library finden sich zahlreiche archäologische Zeitschriften, die retrodigitalisiert und mit Metadaten versehen sind. Schauen Sie sich einmal die Metadaten zu dem abgebildeten Artikel aus der Zeitschrift Sussex Archaeology an. Dixon, F. (1847). On a British Sepulchral Urn and Brass Pin, found at Storrington Downs. Sussex Archaeological Collections 1. Vol 1, pp. 55-57.\n\nAufgabenstellungAuflösung\n\n\nSchauen Sie sich das Titelbild der Zeitschrift und die zugehörigen Metadaten an: Welche verschiedenen Arten von Metadaten können Sie finden?. Hinweis: Durch Klicken auf das Bild, können Sie es sich vergrößert ansehen.\n\n\n\n\n\nTitelbild des Artikels\n\n\n\n\n\n\nMetadaten des Artikels\n\n\n\n\n\n\n\nAuflösung der Metadatentypen, die für den Artikel angegeben wurden mit Erklärung\n\n\n\n\n\n\n\nMetadatum\nMetadatentyp\nErklärung\n\n\n\n\nTitle\nDeskriptiv\nBeschreibt den Inhalt\n\n\nSubtitle\nStrukturell\nBeschreibt den Inhalt\n\n\nIssue\nStrukturell\nOrdnet den Artikel innerhalb der Zeitschrift ein\n\n\nSeries\nStrukturell\nOrdnet den Artikel innerhalb von Publikationen ein\n\n\nVolume\nStrukturell\nOrdnet den Artikel innerhalb der Zeitschrift ein\n\n\nPage Start/End\nStrukturell\nOrdnet den Artikel innerhalb des Bandes ein\n\n\nDownloads\nStrukturell und technisch\nBeschreibt, wie der Metadatensatz mit der Online-Ressource verbunden ist und gibt das Dateiformat an\n\n\nLicence Type\nAdministrativ / Rechtlich\nBeschreibt die rechtlichen Nutzungsbedingungen\n\n\nDOI\nAdministrativ\nListet den eindeutigen persistenten Identifikator des Objekts auf\n\n\nPublication Type\nDeskriptiv\nSchlagwort für die Art des Inhalts\n\n\nAuthor\nDeskriptiv\nAngabe des Urhebers/ der Urheberin\n\n\nYear of Publication\nDeskriptiv\nAngabe des Publikationszeitpunkts\n\n\nLocation\nDeskriptiv\nInhaltliche Schlagworte\n\n\nSubjects / Periods\nDeskriptiv\nInhaltliche Schlagworte\n\n\nSource\nAdministrativ / Strukturell\nGibt die Quelle, an der das Objekt liegt, an\n\n\nCreated Date\nAdministrativ / Erhaltungsbezogen\nGibt den Zeitpunkt an, zu dem der Metadatensatz erstellt wurde\n\n\n\n\n\n\n\n\n3.2 Aufgabe 2\nIn der vorangegangenen Aufgabe wurden die Metadatentypen für einen Datensatz-Typ behandelt - einen wissenschaftlichen Aufsatz in einer archäologischen Zeitschrift. In der folgenden Aufgabe geht es um ein Projekt, in dem die unterschiedlichen Projektteile und Datensatz-Typen separat mit Metadaten versehen sind. Schauen Sie sich dafür den folgenden ADS-Datensatz an:\nColchester Archaeological Trust (2025) Site Data from an Archaeological Evaluation at South of Berechurch Hall Road, Colchester, Essex, Sep 2021 [data-set]. York: Archaeology Data Service [distributor].\n\nIn der linken Übersichtsleiste finden Sie die Bereiche “Collection Metadata”, in denen die Metadaten für die gesamte Kollektion angegeben sind.\n\n\n\n\nScreenshot Collection Metadata\n\n\n\nUnter Downloads finden Sie verschiedene zugehörige Dateitypen, wie den Bericht, Rasterbilder, Vektorgraphiken und weitere Daten, die während der Ausgrabung aufgenommen wurden.\nFür jede Datei können die Metadaten über info angezeigt werden.\n\n\n\n\nScreenshot Downloads\n\n\n\nAufgabenstellungLösungshinweis\n\n\nWie unterscheiden sich die Metadaten für die unterschiedlichen Dateiformate?\n\n\nVerschiedene Dateiformate sind mit unterschiedlichen Metadaten versehen. Die Rasterbilder und Vektorgraphiken enthalten beispielsweise detaillierte technische Metadaten zu Dateigröße, Dateiformat und Prüfsumme. In den Metadaten der Rasterbilder sind nicht nur die Dateien selbst, sondern auch der abgebildete Befund ausführlich beschrieben. Die Metadaten des Berichts enthalten eine längere Zusammenfassung über den Inhalt.\n\n\n\n\n\n3.3 Ergebnisse\nEs gibt eine Vielzahl an Metadaten, mit denen ein Objekt beschrieben werden kann. Welche Metadaten aufgenommen werden, hängt davon ab, um welche Arten von Daten es sich handelt, die damit beschrieben werden."
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#transferaufgabe",
+    "href": "oer-uebung-metadatentypen.html#transferaufgabe",
+    "title": "Übung Metadatentypen",
+    "section": "4 Transferaufgabe",
+    "text": "4 Transferaufgabe\nDenken Sie an eine aktuelle Forschungsarbeit, an der Sie arbeiten. Dies kann eine Hausarbeit fürs Studium sein, eine Abschlussarbeit, eine Projektarbeit oder ein Vortrag, den Sie vorbereiten müssen. Schreiben Sie auf:\n\nWelche Dateiformate fallen bei dem Projekt an?\nÜberlegen Sie für jedes Dateiformat, welche Metadaten Sie hierfür aufnehmen können und welche Metadaten Sie für das gesamte Projekt aufnehmen können.\nSuchen Sie sich ein Dateiformat heraus und überlegen Sie: Welche Metadaten sind für die Nachnutzbarkeit besonders entscheidend?"
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#weiterführende-quellen-und-informationen",
+    "href": "oer-uebung-metadatentypen.html#weiterführende-quellen-und-informationen",
+    "title": "Übung Metadatentypen",
+    "section": "Weiterführende Quellen und Informationen",
+    "text": "Weiterführende Quellen und Informationen\n\nWeitere Informationen zu Metadaten, den verschiedenen Typen von Metadaten sowie eine Sammlung mit Links zur weiteren Vertiefung in die Thematik finden Sie im NFDI4Objects OER-Baustein Metadaten Einführung."
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#nachnutzen",
+    "href": "oer-uebung-metadatentypen.html#nachnutzen",
+    "title": "Übung Metadatentypen",
+    "section": "Nachnutzen",
+    "text": "Nachnutzen\n\nAlle sind herzlich eingeladen, diesen Baustein und die zugehörige Copyleft-Lizenz zu nutzen, um ihr Wissen und ihre Expertise in die Verbesserung und Aktualisierung einzubringen.\nUnser Wunsch ist ein lebendiges, stetig aktualisiertes Dokument, das sich durch die Beiträge vieler verändert - im Einklang mit einem sich wandelnden Umfelds. Wir freuen uns im Falle einer Überarbeitung über eine kurze Notiz – das ist aber selbstverständlich keine Pflicht.\n\n🔗 Dieser Baustein als Website\n🔗 Quarto-Quellcode dieses Bausteins\n\n🔗 Diese Übung nutzt das OER-Übungs-Template von NFDI4Objects"
+  },
+  {
+    "objectID": "oer-uebung-metadatentypen.html#disclaimer-einsatz-von-llm",
+    "href": "oer-uebung-metadatentypen.html#disclaimer-einsatz-von-llm",
+    "title": "Übung Metadatentypen",
+    "section": "Disclaimer: Einsatz von LLM",
+    "text": "Disclaimer: Einsatz von LLM\n\nBei der Erarbeitung dieser Website wurde die freie Version von ChatGPT 5 zur Unterstützung eingesetzt. die Nutzung umfasste für Formulierungshilfen und Rechtschreibprüfung. Es wird ausdrücklich darauf hingewiesen, dass die endgültige Verantwortung für die inhaltliche Richtigkeit bei der Autorin liegt"
+  }
+]
