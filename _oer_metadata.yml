@@ -25,8 +25,8 @@ keywords:
   - Metadatentypen
 
 # Technische Metadaten
-site-url: &site https://github.com/nfdi4objects/oer-uebung-metadatentypen
-repo-url: &repo https://nfdi4objects.github.io/oer-uebung-metadatentypen/
+site-url: &site https://nfdi4objects.github.io/oer-uebung-metadatentypen/
+repo-url: &repo https://github.com/nfdi4objects/oer-uebung-metadatentypen
 doi: XXXXXXX.XXXXXXX
 
 # Vorgaben für den Appendix "Zitat"
